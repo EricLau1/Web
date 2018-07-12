@@ -1,0 +1,3 @@
+executar servidor embutido do php
+
+\> php -S localhost:8080
